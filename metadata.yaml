@@ -1,0 +1,67 @@
+_repo: Elisabeth-de-Baviere-Imperatrice-d-Autriche-Pages-de-journal-impressions-conversations-souven__69194
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Barrès, Maurice
+    aliases:
+    - Barres, Maurice
+    - Barrès, M. (Maurice)
+    birthdate: 1862
+    deathdate: 1923
+    gutenberg_agent_id: '6948'
+    url: http://www.gutenberg.org/2009/agents/6948
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Maurice_Barr%C3%A8s
+    - https://fr.wikipedia.org/wiki/Maurice_Barr%C3%A8s
+  illustrator:
+    agent_name: Khnopff, Fernand
+    birthdate: 1858
+    deathdate: 1921
+    gutenberg_agent_id: '55158'
+    url: http://www.gutenberg.org/2009/agents/55158
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Fernand_Khnopff
+    - https://fr.wikipedia.org/wiki/Fernand_Khnopff
+  translator:
+    agent_name: Syveton, Gabriel
+    birthdate: 1864
+    deathdate: 1904
+    gutenberg_agent_id: '55157'
+    url: http://www.gutenberg.org/2009/agents/55157
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Gabriel_Syveton
+    - https://fr.wikipedia.org/wiki/Gabriel_Syveton
+creator:
+  author:
+    agent_name: Chrestomanos, Konstantinos
+    aliases:
+    - Χρηστομάνος, Κωνσταντίνος
+    - Christomanos, Constantin
+    birthdate: 1867
+    deathdate: 1911
+    gutenberg_agent_id: '32437'
+    url: http://www.gutenberg.org/2009/agents/32437
+    wikipedia: http://el.wikipedia.org/wiki/%CE%9A%CF%89%CE%BD%CF%83%CF%84%CE%B1%CE%BD%CF%84%CE%AF%CE%BD%CE%BF%CF%82_%CE%A7%CF%81%CE%B7%CF%83%CF%84%CE%BF%CE%BC%CE%AC%CE%BD%CE%BF%CF%82
+description: ''
+gutenberg_issued: '2022-10-21'
+identifiers:
+  gutenberg: '69194'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k9465950
+pgterms:marc905: 20210613014315christoman
+pgterms:marc906: '1900'
+pgterms:marc907: FR
+production_note: Laurent Vogel, Chuck Greif and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: 'France: Mercure de France,1900.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Elisabeth, Empress, consort of Franz Joseph I, Emperor of Austria, 1837-1898'
+- !lcc 'DB'
+- GITenberg
+title: "Élisabeth de Bavière, Impératrice d'Autriche\r\nPages de journal, impressions,\
+  \ conversations, souvenirs"
+url: http://www.gutenberg.org/ebooks/69194
