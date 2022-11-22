@@ -31,6 +31,9 @@ contributor:
     wikipedia:
     - https://en.wikipedia.org/wiki/Gabriel_Syveton
     - https://fr.wikipedia.org/wiki/Gabriel_Syveton
+covers:
+- cover_type: archival
+  image_path: 69194-h/images/cover.jpg
 creator:
   author:
     agent_name: Chrestomanos, Konstantinos
@@ -43,6 +46,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32437
     wikipedia: http://el.wikipedia.org/wiki/%CE%9A%CF%89%CE%BD%CF%83%CF%84%CE%B1%CE%BD%CF%84%CE%AF%CE%BD%CE%BF%CF%82_%CE%A7%CF%81%CE%B7%CF%83%CF%84%CE%BF%CE%BC%CE%AC%CE%BD%CE%BF%CF%82
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69194#Elisabeth-de-Baviere-Imperatrice-d-Autriche-Pages-de-journal-impressions-conversations-souven_
 gutenberg_issued: '2022-10-21'
 identifiers:
   gutenberg: '69194'
